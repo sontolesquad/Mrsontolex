@@ -13,8 +13,8 @@ read -p "Team :" team
 read -p "File Name :" file
 echo "[+] Wait..."
 sleep 2
-echo "[+] File: data/output/$file"
+echo "[+] File: data/$file"
 sleep 2
 echo "[+] Starting Submitter.."
 sleep 2
-defid_notifier output/$file $nick "$team"
+defid_notifier $file $nick "$team"
