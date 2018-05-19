@@ -16,8 +16,8 @@ echo "[+] Generating..."
 count=1
 while [ $count -le $jumlah ]
 do
-printf "http://$RANDOM.$domain\n" >> output/$output
-echo "[$count] Generated => data/output/$output"
+printf "http://$RANDOM.$domain\n" >> $output
+echo "[$count] Generated => data/$output"
 sleep $delay
 (( count++ ))
 done
