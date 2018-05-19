@@ -258,7 +258,7 @@ echo '    |  ___|_ _| | _____    |_   _|__   ___ | |___ ';
 echo '    | |_ / _` | |/ / _ \_____| |/ _ \ / _ \| / __|';
 echo '    |  _| (_| |   <  __/_____| | (_) | (_) | \__ \';
 echo '    |_|  \__,_|_|\_\___|     |_|\___/ \___/|_|___/ v.1.0';
-echo ' ---------------- Coded By Cy#b3r00T ---------------';
+echo ' ---------------- Coded By Mrsontolex / Muhammad Zainul ramadhan ---------------';
 echo '';
 echo 'Nb: Pantad Typiz Dilarang Menggunakan Tools Ini!';
 echo '    Atau akan terbully. Eh ntar malah nangid :v';
